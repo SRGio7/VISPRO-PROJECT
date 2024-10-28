@@ -1,0 +1,10 @@
+C:\Users\Sergio\source\repos\Vispro-Final-Project\Klinik\obj\Debug\Klinik.csproj.AssemblyReference.cache
+C:\Users\Sergio\source\repos\Vispro-Final-Project\Klinik\obj\Debug\Klinik.AdminFrm.resources
+C:\Users\Sergio\source\repos\Vispro-Final-Project\Klinik\obj\Debug\Klinik.AdminnFrm.resources
+C:\Users\Sergio\source\repos\Vispro-Final-Project\Klinik\obj\Debug\Klinik.StaffFrm.resources
+C:\Users\Sergio\source\repos\Vispro-Final-Project\Klinik\obj\Debug\Klinik.DokterFrm.resources
+C:\Users\Sergio\source\repos\Vispro-Final-Project\Klinik\obj\Debug\Klinik.Form1.resources
+C:\Users\Sergio\source\repos\Vispro-Final-Project\Klinik\obj\Debug\Klinik.Properties.Resources.resources
+C:\Users\Sergio\source\repos\Vispro-Final-Project\Klinik\obj\Debug\Klinik.RJTextBox.resources
+C:\Users\Sergio\source\repos\Vispro-Final-Project\Klinik\obj\Debug\Klinik.csproj.GenerateResource.cache
+C:\Users\Sergio\source\repos\Vispro-Final-Project\Klinik\obj\Debug\Klinik.csproj.CoreCompileInputs.cache
